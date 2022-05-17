@@ -1,4 +1,4 @@
-
+## ALGORITMO DO EXERCÍCIO
       
       INICIO 
 	        	EXISTEM ALUNOS?		
