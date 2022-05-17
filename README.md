@@ -1,3 +1,5 @@
+![fluxograma](https://user-images.githubusercontent.com/104045633/168704552-89527aed-fc31-4656-9e34-473d9d528115.png)
+      
       INICIO 
 	        	EXISTEM ALUNOS?		
 		         SE SIM IMPRIMA "DIGITE A NOTA DA AC1"
