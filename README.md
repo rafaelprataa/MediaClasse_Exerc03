@@ -1,4 +1,6 @@
-## ALGORITMO DO EXERCÍCIO
+## Aqui temos um algoritmo utilizando estrutura condicional para determinar a média das notas de um aluno, e retornar se ele foi aprovado ou reprovado.
+
+# ALGORITMO DO EXERCÍCIO
       
       INICIO 
 	        	EXISTEM ALUNOS?		
